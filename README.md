@@ -6,11 +6,13 @@ I am:
     
    <!-- This is commented out.  🇸🇪 Lost in Sweden -->
    <!-- 👨🏽‍💻 Work at @Spotify  -->
-    🇲🇦 Made In Morocco
+    
     🤓 Technologist
+    🇲🇦 Made In Morocco
     ✍️ Blogger
     🦞 Community catalyst
     🔊 Speaker
+    💬 Ask me about: anything, I am happy to help
    <!-- 🎙️ GeeksBlaBLa Creator  -->
     
    <!-- 😣 and many people struggle to pronounce my last name!  -->
