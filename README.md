@@ -4,8 +4,8 @@ Welscome to my github profile, where I randomly share some repos, and contribute
 I am:
 
     🇲🇦 Made In Morocco
-   # 🇸🇪 Lost in Sweden
-   # 👨🏽‍💻 Work at @Spotify
+   // 🇸🇪 Lost in Sweden
+    👨🏽‍💻 Work at @Spotify
     🤓 Technologist
     ✍️ Blogger
     🦞 Community catalyst
