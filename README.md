@@ -13,7 +13,7 @@ I am:
     🦞 Community catalyst
     🔊 Speaker
     💬 Ask me about: anything, I am happy to help
-    👨‍💻 All of my projects are available at [Link](https://www.othman.elmajid.com/)
+    👨‍💻 All of my projects are available at https://www.othman.elmajid.com
 
    <!-- 🎙️ GeeksBlaBLa Creator  -->
     
