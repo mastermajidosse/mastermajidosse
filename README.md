@@ -1,6 +1,6 @@
 Hi there 👋, I'm a Othman
 
-Welscome to my github profile, where I randomly share some repos, and contribute to open source projects. 
+Welscome to my github profile, where I Try to change the world , with independent tech alternatives away from big tech giants that control the world . 
 I am:
 
     
